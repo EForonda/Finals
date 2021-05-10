@@ -171,8 +171,8 @@ img{
     background-size: cover; 
 }
 .maps-col{
-    min-height:400px;
-    max-width:520px;
+    min-height:200px;
+    max-width:300px;
     background-size: cover;
 }
 
