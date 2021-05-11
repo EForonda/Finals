@@ -42,7 +42,7 @@ nav img{
     margin-right: 25px;
     font-size: 30px;
 }
-.nav-links ul li a{
+.nav-links ul li {
     color: white;
     text-decoration: none;
     font-size: 35px;
