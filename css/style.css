@@ -109,6 +109,7 @@ nav .fas{
     }
     .nav-links ul li{
         display: block;
+         font-size: 22px;
     }
     .nav-links{
         position: absolute;
