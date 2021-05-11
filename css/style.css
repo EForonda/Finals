@@ -42,15 +42,11 @@ nav img{
     margin-right: 25px;
     font-size: 30px;
 }
-.nav-links ul li {
+.nav-links ul li , a {
     color: white;
     text-decoration: none;
     font-size: 35px;
 }
-.nav-links a{
-     font-size:22px;
-     color: white;
-     {
 .nav-links ul li::after{
     content: '';
     width: 0%;
