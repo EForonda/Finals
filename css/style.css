@@ -173,15 +173,14 @@ img{
 .mySlides img{
     width: 700px;
 }
-
 .map{
-    min-height:100px;
-    max-width:480px;
+    min-height:80px;
+    max-width:342px;
     background-size: cover; 
 }
 .maps-col{
-    min-height:400px;
-    max-width:520px;
+    min-height:200px;
+    max-width:380px;
     background-size: cover;
 }
 
